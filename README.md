@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljw0261)](https://solved.ac/ljw0261/)
 <!--
 **2bell1/2bell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
